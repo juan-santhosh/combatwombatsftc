@@ -1,4 +1,5 @@
-# i dunno why i made this
+# Go to the new version at - https://github.com/vinaysruban/combatwombatsftc.git
+# add with git remote set-url origin https://github.com/vinaysruban/combatwombatsftc.git
 
 make sure u got npm
 remember to "cd combatwombatsftc" before running the program
